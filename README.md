@@ -64,7 +64,7 @@ Input Sensors → Data Processing → ML Model → Rule Engine → SCADA Dashboa
 
 
 
-\## 📊 Fault Types Detected
+\ 📊 Fault Types Detected
 
 \- Normal
 
